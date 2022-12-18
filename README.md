@@ -1,5 +1,5 @@
 ## 8D_music_generator
-<span style = "color : rgb(187, 0, 255)>A simple Python script to generate '8D Audio'.</span>
+<span>A simple Python script to generate '8D Audio'.</span>
 
 Steps:
 <ul>
